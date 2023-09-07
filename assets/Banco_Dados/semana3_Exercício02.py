@@ -111,7 +111,7 @@ print(conta2.saldo)
 print()
 
 conta1.depositar(7000.0)
-conta2.depositar(70.0)
+conta2.depositar(700.0)
 
 print(conta1.saldo)
 print(conta2.saldo)
